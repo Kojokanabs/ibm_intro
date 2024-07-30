@@ -1,0 +1,15 @@
+First_name 	Last_name
+Sandra     	Amu
+Eunice     	Nkansah
+anabel     	Koe
+belinda    	adjei
+Kofui      	Addo
+bernard    	Moana
+Seadulf    	Lartey
+Clara	   	lartey
+Owen       	Dancan
+Roberto    	Nano
+Emacs      	Ajei
+Anabingo   	Dor
+Shisi      	Sosa
+Tigo 	   	Eunice
